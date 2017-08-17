@@ -1,1 +1,3 @@
 # Udacity_da_explore_Titanic_Python
+
+This small project is part of the Udacity Nanodegree "Data Analyst" were I basically try to familiarize myself with the Pandas, Numpy and Seaborn libraries. For this, I visually investigate how victims and survivors of the Titanic's sinking differ in several terms including socio-economic status, age, and gender. To my mind, the Titanic dataset is a good starting point to get ones head around Python because it is clean and simply structured. The focus for this project lies on some basic data wrangling, data exploration, and simple test statistics. Lastly, I'm a R user and this is my first ever Python script so do not expect anything to fancy and bare with me I guess.
